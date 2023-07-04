@@ -15,3 +15,11 @@ pip install -r requirements.txt
 run:
 
 python main.py
+
+This code generates a comprehensive explanation for the prompt you provide, regardless of the specific details, and it also generates an image based on the given prompt.
+
+it uses text-davinci-003 model for generating the brief. also you can use DALL-E model for high quality images for the context
+
+
+
+
